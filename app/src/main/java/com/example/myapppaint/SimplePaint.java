@@ -13,6 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 public class SimplePaint extends View {
+
     Path mPath;
     Paint mPaint;
 
